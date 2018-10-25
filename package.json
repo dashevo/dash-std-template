@@ -4,12 +4,16 @@
   "description": "description",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "check": "prettier -l README.md"
   },
   "repository": {
     "type": "git",
     "url": "github.com/nmarley/dash-std-tempkate"
   },
   "author": "Nathan Marley",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^1.14.3"
+  }
 }
