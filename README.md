@@ -21,3 +21,7 @@ npm run check
 ## TODO
 
 - Add a license checker (DCG uses MIT License per policy)
+
+## LICENSE
+
+MIT &copy; Dash Core Group, Inc.
