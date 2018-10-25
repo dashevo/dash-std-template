@@ -24,4 +24,5 @@ npm run check
 
 ## LICENSE
 
-MIT &copy; Dash Core Group, Inc.
+[MIT](LICENSE) &copy; Dash Core Group, Inc.
+
