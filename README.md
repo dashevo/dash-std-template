@@ -4,10 +4,16 @@ Example Standard Template for DCG repositories.
 
 ## Prerequisites
 
-* Install [Go](https://golang.org/doc/install)
+- Install Node.js and npm
 
-## Running
+## Install
 
 ```bash
-markdownfmt . 
+npm install
+```
+
+## Running Standard Checks
+
+```bash
+npm run check
 ```
