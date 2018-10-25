@@ -1,7 +1,7 @@
 {
   "name": "dash-std-template",
   "version": "1.0.0",
-  "description": "description",
+  "description": "Dash Core Group standard README and LICENSE template example repo.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/nmarley/dash-std-tempkate"
+    "url": "https://github.com/nmarley/dash-std-template.git"
   },
   "author": "Nathan Marley",
   "license": "MIT",
