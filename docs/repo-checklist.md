@@ -9,6 +9,7 @@
   b. peer review required for merge  
   c. reviews dismissed when new commits are pushed  
 5. LICENSE:
+  - must exist
   - must be named 'LICENSE' exactly (no extension)
   - must be MIT License (unless special dispensation granted by management and written agreement exists)
 
