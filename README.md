@@ -1,6 +1,6 @@
 # Dash Standard Template
 
-Example Standard Template for DCG repositories.
+> Example Standard Template for DCG repositories.
 
 ## Prerequisites
 
