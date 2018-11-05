@@ -1,5 +1,7 @@
 # Dash Standard Template
 
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
+
 > Example Standard Template for DCG repositories.
 
 ## Install
