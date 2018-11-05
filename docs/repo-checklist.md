@@ -13,6 +13,8 @@
   - must exist
   - must be named 'LICENSE' exactly (no extension)
   - must be MIT License (unless special dispensation granted by management and written agreement exists)
+6. Versioned releases (e.g. in NPM) should align with git tags. (GitHub auto-deploy to NPM when a new tag is pushed.)
+
 ### Possible:
 
 - Code coverage metrics (badge which determines % coverage)
