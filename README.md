@@ -4,7 +4,7 @@
 
 > Example Standard Template for DCG repositories.
 
-## Contents
+## Table of Contents
 - [Install](#install)
   - [Dependencies](#dependencies)
 - [Usage](#usage)
