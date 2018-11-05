@@ -4,6 +4,15 @@
 
 > Example Standard Template for DCG repositories.
 
+## Contents
+- [Install](#install)
+  - [Dependencies](#dependencies)
+- [Usage](#usage)
+- [TODO](#todo)
+- [Maintainer](#maintainer)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Install
 
 ```bash
