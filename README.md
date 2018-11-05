@@ -35,6 +35,6 @@ npm run check
 
 Feel free to dive in! [Open an issue](https://github.com/nmarley/dash-std-template/issues/new) or submit PRs.
 
-## LICENSE
+## License
 
 [MIT](LICENSE) &copy; Dash Core Group, Inc.
