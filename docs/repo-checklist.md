@@ -14,7 +14,11 @@
   - must be named 'LICENSE' exactly (no extension)
   - must be MIT License (unless special dispensation granted by management and written agreement exists)
 6. Versioned releases (e.g. in NPM, etc.) should align with git tags. (GitHub auto-deploy to NPM when a new tag is pushed.)
-7. Descriptions in GitHub, NPM, etc. should align with (short/long) description in README.md file. The README.md is the source of truth.
+7. Descriptions in GitHub, NPM, etc. should align with (short/long) description in README.md file. The README.md is the source of truth. Package names and descriptions in all of the following should align:
+  - README.md
+  - GitHub project description
+  - NPM package description
+  - package.json (or similar manifest)
 8. Ensure existing security vulnerabilities are patched (e.g. any that GitHub reports, or any other known vulns from reliable sources (Ruby-ANN mailing list, Node Security, etc.).
 
 ### Possible:
