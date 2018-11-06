@@ -15,6 +15,7 @@
   - must be MIT License (unless special dispensation granted by management and written agreement exists)
 6. Versioned releases (e.g. in NPM, etc.) should align with git tags. (GitHub auto-deploy to NPM when a new tag is pushed.)
 7. Descriptions in GitHub, NPM, etc. should align with (short/long) description in README.md file. The README.md is the source of truth.
+8. Ensure existing security vulnerabilities are patched (e.g. any that GitHub reports, or any other known vulns from reliable sources (Ruby-ANN mailing list, Node Security, etc.).
 
 ### Possible:
 
