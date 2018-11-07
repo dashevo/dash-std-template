@@ -1,7 +1,7 @@
 {
   "name": "dash-std-template",
   "version": "1.0.0",
-  "description": "Dash Core Group standard README and LICENSE template example repo.",
+  "description": "Example Standard Template for DCG repositories.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
