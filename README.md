@@ -42,7 +42,7 @@ npm run check
 
 ## Contributing
 
-Feel free to dive in! [Open an issue](https://github.com/nmarley/dash-std-template/issues/new) or submit PRs.
+Feel free to dive in! [Open an issue](https://github.com/dashevo/dash-std-template/issues/new) or submit PRs.
 
 ## License
 
